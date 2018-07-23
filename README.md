@@ -1,2 +1,3 @@
 # HelloGit
 第一个Git项目
+这是使用的gethub项目管理平台，没有使用自己搭建的getlab项目管理平台
